@@ -4,9 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".kuis">
-    <TextView
-        android:layout_width="wrap_content"
+    <ImageView
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="INI HALAMAN ABOUT"/>
+        android:src="@drawable/aku"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama :Moh Iqbal Okthapian\nNIM :160411100108\nTTL :Lamongan, 17 oktober 1998"
+        android:textAlignment="center"/>
 </LinearLayout>
