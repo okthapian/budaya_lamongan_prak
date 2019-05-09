@@ -8,5 +8,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="INI HALAMAN KUIS"/>
+        android:text="INI HALAMAN KUIS"
+        android:id="@+id/txtkuis"/>
 </LinearLayout>
